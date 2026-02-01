@@ -1,1 +1,2 @@
-esto es readme19:12
+##Github
+primeros pasos
